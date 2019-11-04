@@ -1,0 +1,6 @@
+2019-11-04 05:57:09.168 [main] DEBUG com.osuidsftp.KsftpLog - theRelativeFilePath is /testImages/
+2019-11-04 05:57:09.176 [main] DEBUG com.osuidsftp.KsftpLog - Url is file:/C:/Users/micha/source/repos/OSU_ID_CENTER/app/build/intermediates/sourceFolderJavaResources/debug/testImages/
+2019-11-04 05:57:09.178 [main] DEBUG com.osuidsftp.KsftpLog - Found 10 test image files
+2019-11-04 05:57:09.241 [pool-2-thread-1] DEBUG com.osuidsftp.KsftpLog - Attempting to create SFTP session...
+2019-11-04 05:57:10.541 [pool-2-thread-1] ERROR com.osuidsftp.KsftpLog - Auth fail
+2019-11-04 05:57:10.541 [pool-2-thread-1] ERROR com.osuidsftp.KsftpLog - Auth fail
